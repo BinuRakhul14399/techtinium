@@ -1,0 +1,7 @@
+	 New York  India  China
+Large	 $120	   $140	  $110
+XLarge	 $230	   $0     $200
+2XLarge	 $450      $413	  $0 
+4XLarge	 $774	   $890	  $670
+8XLarge	 $1400     $1300  $1180
+10XLarge $2820	   $2970  $0 	 
